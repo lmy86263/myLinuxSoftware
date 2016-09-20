@@ -9,4 +9,8 @@ Java开发：
 一般开发（C、Python）：
   - Vim
   - Atom
+  - 
+  
+# 2. 娱乐 
+  - variety
 
